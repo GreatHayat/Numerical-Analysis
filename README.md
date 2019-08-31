@@ -1,4 +1,4 @@
-<h2Numerical Analysis</h2>
+<h2>Numerical Analysis</h2>
 
 <p>How to Implement Calculus in C++ </p>
 
