@@ -2,7 +2,7 @@
 
 <p>How to Implement Calculus in C++ </p>
 
-<h3>Here are the list of Methods implemented by me in C++ </h3>
+<h3>Here is the list of Methods implemented by me in C++ </h3>
 <ul>
   <li>Aitken Method</li>
   <li>Euler Method</li>
